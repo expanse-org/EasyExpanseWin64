@@ -1,0 +1,11 @@
+** Initial Setup **
+*******************
+
+- Double Click "Setup_Step_1_new_account.bat"
+- When the cmd prompt opens, enter in a password, hit enter, retype password hit enter again
+- Double Click "Setup_Step_2_genesis.bat"
+- Double Click "Start_Expanse.bat"
+
+TADA! You have successfully completed all the steps.
+
+From now on anytime you want to start expanse just double click "start_expanse.bat"

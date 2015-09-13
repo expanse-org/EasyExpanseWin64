@@ -1,0 +1,5 @@
+** Mining Instructions **
+*************************
+
+- Doubleclick Start_Expanse.bat
+- Doubleclick Start_Mining
