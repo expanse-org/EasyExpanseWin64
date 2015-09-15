@@ -2,4 +2,4 @@
 *************************
 
 - Doubleclick Start_Expanse.bat
-- Doubleclick Start_Mining
+- Doubleclick Start_Mining.bat
