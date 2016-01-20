@@ -1,9 +1,7 @@
 ** Initial Setup **
 *******************
 
-- Double Click "Setup_Step_1_genesis.bat"
-- close/exit the cmd window once the genesis.json is done.
-- Double Click "Setup_Step_2_new_account.bat"
+- Double Click "Setup_Step_1_create_account.bat"
 - When the cmd prompt opens, enter in a password, hit enter, retype password hit enter again, close/exit the cmd window.
 - Double Click "Start_Expanse.bat"
 
